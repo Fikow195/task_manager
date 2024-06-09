@@ -75,9 +75,3 @@ int main() {
 
     return 0;
 }
-
-
-int main() {
-    std::cout << "Task Manager Application" << std::endl;
-    return 0;
-}
