@@ -1,4 +1,5 @@
 #include <iostream>
+
 #include <string>
 #include "TaskManager.h"
 
@@ -73,5 +74,11 @@ int main() {
         }
     }
 
+    return 0;
+}
+
+
+int main() {
+    std::cout << "Task Manager Application" << std::endl;
     return 0;
 }
